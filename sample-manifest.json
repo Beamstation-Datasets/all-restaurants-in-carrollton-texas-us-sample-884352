@@ -1,12 +1,12 @@
 {
-  "export_job_id": "09f93374-abdc-43b4-9e00-3e7e1ad585c8",
+  "export_job_id": "4e02b18a-4353-44db-9fe1-fc687df43e91",
   "id_short": 884352,
-  "published_at": "2026-04-19T19:18:10Z",
+  "published_at": "2026-04-23T19:39:46Z",
   "repo_name": "all-restaurants-in-carrollton-texas-us-sample-884352",
   "sample_asset_name": "beamstation_884352_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/884352/beamstation_884352_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 42,
-  "sample_sha256": "e378bdbecf8bb8c6bd90cfa1425052f81008ca531a5285fcb52e2fc32c3d7341",
-  "sample_size_bytes": 163039,
-  "total_records": 426
+  "sample_records": 28,
+  "sample_sha256": "f79c775c756d7621abc87355d7767656962380b0983583bf6b2239f7f75f0057",
+  "sample_size_bytes": 105476,
+  "total_records": 289
 }
